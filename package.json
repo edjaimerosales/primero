@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/edjaimerosales/primero/issues"
   },
-  "homepage": "https://github.com/edjaimerosales/primero#readme"
+  "homepage": "https://github.com/edjaimerosales/primero#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
